@@ -11,7 +11,7 @@ body {
     background-color: #121214;
     background-image: url(./imagens/background.svg);
     background-position-x: center;
-    background-position-y: 55.6%;
+    background-position-y: -1120px;
 }
 body * {
     font-family: 'Roboto', sans-serif;
@@ -22,6 +22,7 @@ body * {
 }
 header {
     margin-bottom: 63px;
+    text-align: center;
 }
 .card {
     padding: 32px 23px;
@@ -62,4 +63,10 @@ header {
     font-size: 36px;
     line-height: 125%;
     color: #e1e1e6;
+}
+#cards {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
 }
