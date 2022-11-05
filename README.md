@@ -12,17 +12,17 @@
 <br>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/projeto_calendario_copa/?color=white">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/projeto_calendario_copa?color=green">
  
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/larissayasmim/projeto_calendario_copa/?color=yellow">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/larissayasmim/projeto_calendario_copa?color=yellow">
  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/projeto_calendario_copa/?color=green">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/projeto_calendario_copa?color=green">
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/projeto_calendario_copa/?color=yellow">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/larissayasmim/projeto_calendario_copa?color=yellow"/>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=green">
   
-  <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/projeto_calendario_copa/?color=yellow">
+  <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/projeto_calendario_copa?color=yellow">
 
 </p>
 <br>
