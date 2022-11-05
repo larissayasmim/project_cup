@@ -42,6 +42,7 @@
 </h2>
 <br>
 <p align="center" >  
+ <img height= auto width= 680 alt= "Imagem Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667620255/copadomundo/127.0.0.1_5500_index.html_cm7op4.png" />
 </p> 
 
 <br>
@@ -49,7 +50,7 @@
 <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Responsiveness
 </h2>
 <p align="center">
- <img height=auto width=680 alt="Responsiveness gif" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665448957/bikraft/responsivorecortadomp4comidderesonsivo_online-video-cutter.com_1_isoioq.gif"/>
+ <img height=auto width=680 alt="Responsiveness gif" src=""/>
 </p>
 
 ## :computer:&nbsp; Technologies
