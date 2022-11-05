@@ -42,7 +42,7 @@
 </h2>
 <br>
 <p align="center" >  
- <img height= auto width= 680 alt= "Imagem Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667620255/copadomundo/127.0.0.1_5500_index.html_cm7op4.png" />
+ <img height= auto width= 500 alt= "Imagem Homepage" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667620255/copadomundo/127.0.0.1_5500_index.html_cm7op4.png" />
 </p> 
 
 <br>
@@ -50,7 +50,7 @@
 :soccer:&nbsp;&nbsp;Responsiveness
 </h2>
 <p align="center">
- <img height=auto width=680 alt="Responsiveness gif" src=""/>
+ <img height=auto width=500 alt="Responsiveness gif" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667622517/copadomundo/hitpaw-1667622116498_online-video-cutter.com_1_uzu4sh.gif"/>
 </p>
 
 ## :computer:&nbsp; Technologies
