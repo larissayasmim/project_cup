@@ -38,7 +38,7 @@
 <br>
 
 <h2 align-items="center">
-  <img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Homepage
+ :soccer:&nbsp;&nbsp;Homepage
 </h2>
 <br>
 <p align="center" >  
@@ -47,7 +47,7 @@
 
 <br>
 <h2 align-items="center">
-<img height="20" alt="Bike simbol" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665186103/bikraft/faviconcortada_ostlpt.png"/>&nbsp;&nbsp;Responsiveness
+:soccer:&nbsp;&nbsp;Responsiveness
 </h2>
 <p align="center">
  <img height=auto width=680 alt="Responsiveness gif" src=""/>
