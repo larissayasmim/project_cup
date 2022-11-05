@@ -1,6 +1,6 @@
 <p align="center">
 <br>
- <img height="50" alt="Cup calendar" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667619564/copadomundo/TITULO_PROJETO_COPA_l9wqn4.png"/>
+ <img height="auto" width=500 alt="Cup calendar" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1667619564/copadomundo/TITULO_PROJETO_COPA_l9wqn4.png"/>
 </p>
   
  <br>
@@ -26,7 +26,7 @@
 
 </p>
 <br>
-<h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666394248/bikraft/iconmonstr-marketing-4-240_3_t1cxqk.png"> &nbsp;Demonstration </h2>
+<h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666393600/portfolio/iconmonstr-marketing-4-240_1_xxscmt.png"> &nbsp;Demonstration </h2>
 <p font-color="red"> https://cupcalendarly.netlify.app/</p>
 <br>
 
