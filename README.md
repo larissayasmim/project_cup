@@ -12,17 +12,17 @@
 <br>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/projeto_calendario_copa?color=green">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/project_cup?color=green">
  
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/larissayasmim/projeto_calendario_copa?color=yellow">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/larissayasmim/project_cup?color=yellow">
  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/projeto_calendario_copa?color=green">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/project_cup?color=green">
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/larissayasmim/projeto_calendario_copa?color=yellow"/>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/larissayasmim/project_cup?color=yellow"/>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=green">
   
-  <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/projeto_calendario_copa?color=yellow">
+  <img alt="File count" src="https://img.shields.io/github/directory-file-count/larissayasmim/project_cup?color=yellow">
 
 </p>
 <br>
@@ -60,7 +60,7 @@
   * VSCode
   
 ## :page_with_curl:&nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/projeto_calendario_copa/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/project_cup/blob/main/LICENSE) for more information.
 
 <br>
 
