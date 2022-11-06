@@ -27,7 +27,7 @@
 </p>
 <br>
 <h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666393600/portfolio/iconmonstr-marketing-4-240_1_xxscmt.png"> &nbsp;Demonstration </h2>
-<p font-color="red"> https://cupcalendarly.netlify.app/</p>
+<p font-color="red"> https://projectcuply.netlify.app/ </p>
 <br>
 
 ## :scroll:&nbsp;Features
